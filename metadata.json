@@ -1,0 +1,6 @@
+{
+  "name": "Hydratation",
+  "description": "Application de suivi d'hydratation avec cercle de progression pour un objectif de 2L, ajout de 250ml et réinitialisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
